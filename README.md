@@ -1,16 +1,7 @@
-# flutter_dynamictheme_get
+### **Dynamic Theme + Shared preference + Using Get + Get_storage**
 
-A new Flutter application.
+1. LIGHT MODE
+2. ![WhatsApp Image 2021-01-01 at 2 14 55 PM (1)](https://user-images.githubusercontent.com/66554769/103436106-2ce7bc80-4c3e-11eb-959c-f59eefac1c51.jpeg)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. DARK MODE
+4. ![WhatsApp Image 2021-01-01 at 2 14 55 PM](https://user-images.githubusercontent.com/66554769/103436107-2e18e980-4c3e-11eb-94ea-d352ff751b11.jpeg)
