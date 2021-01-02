@@ -1,7 +1,8 @@
-### **Dynamic Theme + Shared preference + Using Get + Get_storage**
+### **Dynamic Theme + Using Get + Get_storage**
 
 1. LIGHT MODE
-2. ![WhatsApp Image 2021-01-01 at 2 14 55 PM (1)](https://user-images.githubusercontent.com/66554769/103436106-2ce7bc80-4c3e-11eb-959c-f59eefac1c51.jpeg)
+![WhatsApp Image 2021-01-02 at 11 38 18 AM](https://user-images.githubusercontent.com/66554769/103451993-bbb51180-4cf0-11eb-8b39-cbc580ddc4c8.jpeg)
 
 3. DARK MODE
-4. ![WhatsApp Image 2021-01-01 at 2 14 55 PM](https://user-images.githubusercontent.com/66554769/103436107-2e18e980-4c3e-11eb-94ea-d352ff751b11.jpeg)
+4. ![WhatsApp Image 2021-01-02 at 11 38 18 AM (1)](https://user-images.githubusercontent.com/66554769/103451994-bce63e80-4cf0-11eb-9449-8a2bfcffbbe3.jpeg)
+
