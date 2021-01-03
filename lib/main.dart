@@ -3,7 +3,7 @@ import 'package:flutter_dynamictheme_get/first_screen.dart';
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
 
-final themedata = GetStorage();
+final _themedata = GetStorage();
 
 void main() async {
   await GetStorage.init(); //get storage initialization
@@ -11,13 +11,13 @@ void main() async {
 }
 
 class MyApp extends StatelessWidget {
-  final bool darkMode = themedata.read('darkmode') ?? false;
+  final bool _darkMode = _themedata.read('darkmode') ?? false;
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
       debugShowCheckedModeBanner: false,
-      theme: darkMode ? ThemeData.dark() : ThemeData.light(),
-      home: FirstScreen(), //Your home page,
+      theme: _darkMode ? ThemeData.dark() : ThemeData.light(),
+      home: FirstScreen(), // Your home page,
     );
   }
 }
